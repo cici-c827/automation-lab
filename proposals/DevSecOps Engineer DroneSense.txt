@@ -1,0 +1,42 @@
+
+Application Date: 2026-02-13
+
+Role: DevSecOps Engineer DroneSense
+Source: https://remoteOK.com/remote-jobs/remote-devsecops-engineer-dronesense-versaterm-1130147
+
+---
+
+Why I Fit This Role:
+
+I specialize in automation-first engineering workflows.
+My focus is reducing manual operations using Python, APIs, and AI tooling.
+
+Recently I built systems that:
+• Automatically discover remote opportunities
+• Extract structured data from live job markets
+• Build execution pipelines instead of manual work
+
+This role aligns strongly with my background in:
+Python automation
+AI-assisted development
+Data pipeline integration
+Remote-first async collaboration
+
+---
+
+What I Can Deliver Fast:
+
+• Production-grade Python scripting
+• API integrations
+• Workflow automation
+• Data handling & transformation
+• AI tooling integration
+
+I focus on shipping working solutions, not theory.
+
+---
+
+Availability:
+Immediate.
+
+Open to trial task to demonstrate capability.
